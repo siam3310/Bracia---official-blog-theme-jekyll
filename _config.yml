@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: yazan.bar
+title: siamsblog
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Incoherent ramblings.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -9,9 +9,9 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Steve Kolinsky
-  title: Hey, I’m Steve Kolinsky!
-  description: I am a Senior Software Engineer. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.
+  name: Mahamudun Nabi Siam
+  title: Hey, I’m Siam!
+  description: I am a Student.
   image: '/images/01.jpg'
   avatar: '/images/01-1.jpg'
 
@@ -39,7 +39,7 @@ mailchimp__button__text: Join # Add your button text
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
+  email: mahamudunn1005@gmail.com # Add your email for contact form
   description: Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
